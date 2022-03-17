@@ -1,0 +1,16 @@
+.favorite-list-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.no-favlist {
+  font-size: 1rem;
+  color: #777;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10rem;
+  width: 100%;
+}
